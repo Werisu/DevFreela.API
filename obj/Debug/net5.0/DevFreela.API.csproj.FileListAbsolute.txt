@@ -22,7 +22,6 @@
 /home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/staticwebassets/DevFreela.API.StaticWebAssets.xml
 /home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/scopedcss/bundle/DevFreela.API.styles.css
 /home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/DevFreela.API.RazorTargetAssemblyInfo.cache
-/home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/DevFreela.API.csproj.CopyComplete
 /home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/DevFreela.API.dll
 /home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/ref/DevFreela.API.dll
 /home/ti/DevFreela_CLI/DevFreela.API/obj/Debug/net5.0/DevFreela.API.pdb
