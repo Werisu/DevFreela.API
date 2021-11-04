@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5qyMdyBGsrda9zZj0GZyqZelcmeFI8hBW5MOtVUFXpODjpSez6RqpFfn9HFUKeM/fgxVxDQgsjn6KHLs1/xYA==",
+  "success": true,
+  "projectFilePath": "/home/ti/DevFreela_CLI/DevFreela.API/DevFreela.API.csproj",
+  "expectedPackageFiles": [
+    "/home/ti/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/ti/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ti/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/ti/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/ti/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/ti/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
